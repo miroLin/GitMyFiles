@@ -10,3 +10,5 @@
  Spring Boot 中文学习导航网站，里面资料很全		http://springboot.fun/
  
  TortoiseGit文件夹和文件图标不显示(Git) https://blog.csdn.net/U3D_YSJ/article/details/48999837?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+ 
+ 解决Github访问缓慢问题	 https://blog.csdn.net/sinat_27933301/article/details/92831373
