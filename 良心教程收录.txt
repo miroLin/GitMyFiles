@@ -8,3 +8,6 @@
  Spring Boot2 教程整理合集	 http://springboot.javaboy.org/
  
  Spring Boot 中文学习导航网站，里面资料很全		http://springboot.fun/
+ 
+ 如果yum源无法使用，可以更换本地的yum源，参考如下方法：	https://my.oschina.net/u/3497124/blog/1036973
+														https://my.oschina.net/kangvcar/blog/1557497
