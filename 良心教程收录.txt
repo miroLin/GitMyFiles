@@ -12,3 +12,6 @@
  TortoiseGit文件夹和文件图标不显示(Git) https://blog.csdn.net/U3D_YSJ/article/details/48999837?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
  
  解决Github访问缓慢问题	 https://blog.csdn.net/sinat_27933301/article/details/92831373
+ 
+ 解决Chrome浏览器提示“请停用以开发者模式运行的扩展程序”问题 	https://www.extfans.com/articles/747/ 
+																https://cloud.tencent.com/developer/article/1467878
