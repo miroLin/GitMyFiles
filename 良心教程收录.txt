@@ -9,14 +9,11 @@
  
  Spring Boot 中文学习导航网站，里面资料很全		http://springboot.fun/
  
-<<<<<<< HEAD
  如果yum源无法使用，可以更换本地的yum源，参考如下方法：	https://my.oschina.net/u/3497124/blog/1036973
 														https://my.oschina.net/kangvcar/blog/1557497
-=======
  TortoiseGit文件夹和文件图标不显示(Git) https://blog.csdn.net/U3D_YSJ/article/details/48999837?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
  
  解决Github访问缓慢问题	 https://blog.csdn.net/sinat_27933301/article/details/92831373
  
  解决Chrome浏览器提示“请停用以开发者模式运行的扩展程序”问题 	https://www.extfans.com/articles/747/ 
 																https://cloud.tencent.com/developer/article/1467878
->>>>>>> 09871c799f3cc98e8b91f5f80c5f162171bdf3a6
